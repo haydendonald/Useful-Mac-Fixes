@@ -23,6 +23,7 @@ apps=(
   bambu-studio
   iina
   gitkraken
+  google-drive
 )
 
 # Install apps to /Applications
