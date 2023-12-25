@@ -1,19 +1,27 @@
 apps=(
-  bartender
-  cleanmymac
   github
   google-chrome
   spotify
-  vlc
-  1password
-  betterdiscord-installer
   visual-studio-code
   microsoft-office
-  messenger
   angry-ip-scanner
   onedrive
   rectangle
-  mouse-fix
+  git
+  coreutils
+  cmake
+  node
+  gcenx/wine/wine-crossover
+  winetricks
+  docker
+  appcleaner
+  the-unarchiver
+  barrier
+  raspberry-pi-imager
+  discord
+  zoom
+  bambu-studio
+  iina
 )
 
 # Install apps to /Applications
