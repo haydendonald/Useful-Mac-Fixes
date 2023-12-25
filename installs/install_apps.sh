@@ -22,6 +22,7 @@ apps=(
   zoom
   bambu-studio
   iina
+  gitkraken
 )
 
 # Install apps to /Applications
