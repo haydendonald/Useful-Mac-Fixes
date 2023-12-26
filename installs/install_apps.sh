@@ -24,6 +24,7 @@ apps=(
   iina
   gitkraken
   google-drive
+  appcleaner
 )
 
 # Install apps to /Applications
