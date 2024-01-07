@@ -25,6 +25,7 @@ apps=(
   gitkraken
   google-drive
   appcleaner
+  warp
 )
 
 # Install apps to /Applications
