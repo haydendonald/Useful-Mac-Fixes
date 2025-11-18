@@ -44,3 +44,4 @@ do
   echo "Installing $app"
   brew install --cask $app || true
 done
+
